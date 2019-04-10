@@ -1,5 +1,7 @@
 # Matthew D. Murphy
- 612.328.7776 || murphy.matthew.david@gmail.com || https://www.linkedin.com/in/matthewmurphy/
+ * 612.328.7776
+ * murphy.matthew.david@gmail.com
+ * https://www.linkedin.com/in/matthewmurphy/
 
 Analyst with experience communicating at multiple levels, developing analytical reporting tools, and designing repeatable procedures that increase efficiency. Known for "big picture" thinking, asking probing questions, and providing alternatives. Interests include: analytics and reporting, process improvement and automation, technical writing and training. 
 * analytical queries and reports
@@ -15,7 +17,7 @@ Analyst with experience communicating at multiple levels, developing analytical 
 04/2016 - Present
 
 * Demonstrated time-management, work ethic, and ability to perform under pressure.
-* Modeled postive attitude and flexibility.
+* Modeled positive attitude and flexibility.
 * Provided one-on-one mentoring in soft skills including communication, problem-solving, and self-confidence.
 
 
@@ -33,7 +35,18 @@ Analyst with experience communicating at multiple levels, developing analytical 
 #### DTS Quality Control/Third Party Verification Specialist
 
 08/2001 - 05/2007 
+* Prepared reports and developed reporting procedures using Microsoft Office products.
+* Effectively explained complex technical processes to customers in simple terms.
+* Provided technical training on systems and procedures.
+* Highly skilled in multiple order entry and auditing systems.
 
+### TIC Enterprises, LLC
+#### Sales Executive
+
+01/2001 - 04/2001
+* Consulted with small/mid-sized businesses to develop customized communications solutions.
+* Developed business proposals including cost justification and return on investment.
+* Trained on Nortel Norstar hardware and applications and Nextel business solutions.
 
 ## Technical Knowledge
 
