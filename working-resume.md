@@ -11,7 +11,7 @@ Analyst with experience communicating at multiple levels, developing analytical 
 
 ## Professional Experience
 
-### Stay-at-home Dad
+### Stay-at-Home Dad
 04/2016 - Present
 
 * Demonstrated time-management, work ethic, and ability to perform under pressure.
@@ -29,7 +29,11 @@ Analyst with experience communicating at multiple levels, developing analytical 
 * Planned and prioritized requests for new functionality, reports, and data points for business intelligence products.
 * Coordinated with stakeholders to determine user needs and reach consensus on product or service development.
  
- 
+### Comcast
+#### DTS Quality Control/Third Party Verification Specialist
+
+08/2001 - 05/2007 
+
 
 ## Technical Knowledge
 
