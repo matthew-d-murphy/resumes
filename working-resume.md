@@ -10,6 +10,16 @@ Analyst with experience communicating at multiple levels, developing analytical 
 * technical training and documentation
 
 ## Professional Experience
+
+### Stay-at-home Dad
+04/2016 - Present
+
+* Demonstrated time-management, work ethic, and ability to perform under pressure.
+* Modeled postive attitude and flexibility.
+* Provided one-on-one mentoring in soft skills including communication, problem-solving, and self-confidence.
+
+
+
 ### Department of Homeland Security
 #### Management Information Analyst
 
