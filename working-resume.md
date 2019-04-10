@@ -16,10 +16,11 @@ Analyst with experience communicating at multiple levels, developing analytical 
 ## Technical Knowledge
 
 ### Software and Tools
-* Microsoft Excel, Access, Sharepoint, Visio, Word, Publisher
+* Microsoft Excel, Access, Sharepoint, SQL Server, Visio, Word, Publisher
 * Adobe Acrobat, Scribus, Gimp
-* Atopm.io, Visual Studio Code
+* Atom.io, Visual Studio Code
 * markdown, multimarkdown, asciidoc
+* SQL, HTML, CSS, DITA
 
 ### Training Courses and Certificates
 * Metastorm BPM Foundation
