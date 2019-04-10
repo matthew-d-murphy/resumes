@@ -11,7 +11,15 @@ Analyst with experience communicating at multiple levels, developing analytical 
 
 ## Professional Experience
 ### Department of Homeland Security
+#### Management Information Analyst
+
 07/2007 - 04/2016
+* Analyzed business intelligence data to identify issues within processes and procedures.
+* Designed and developed queries and reports using business intelligence products.
+* Planned and prioritized requests for new functionality, reports, and data points for business intelligence products.
+* Coordinated with stakeholders to determine user needs and reach consensus on product or service development.
+ 
+ 
 
 ## Technical Knowledge
 
