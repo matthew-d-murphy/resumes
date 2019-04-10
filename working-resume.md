@@ -12,3 +12,26 @@ Analyst with experience communicating at multiple levels, developing analytical 
 ## Professional Experience
 ### Department of Homeland Security
 07/2007 - 04/2016
+
+## Technical Knowledge
+
+### Software and Tools
+* Microsoft Excel, Access, Sharepoint, Visio, Word, Publisher
+* Adobe Acrobat, Scribus, Gimp
+* Atopm.io, Visual Studio Code
+* markdown, multimarkdown, asciidoc
+
+### Training Courses and Certificates
+* Metastorm BPM Foundation
+* SQL Server 2005 Integration Services
+* IBM Cognos 8 BI Report Studio: Authoring Professional Reports
+* IBM Cognos Report Studio: Author Reports with Multidimensional Data 
+* IBM Cognos Framework Manager: Design Metadata Models 
+* IBM Congos Report Studio: Author Statistical Reports
+
+## Education
+Graduate Certificate in Technical Communication
+University of Minnesota
+
+Bachelor's of Science in Telecommunications Management
+Saint Mary's University of Minnesota
