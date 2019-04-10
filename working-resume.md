@@ -14,7 +14,7 @@ Analyst with experience communicating at multiple levels, developing analytical 
 ## Professional Experience
 
 ### Stay-at-Home Dad
-04/2016 - Present
+_04/2016 - Present_
 
 * Demonstrated time-management, work ethic, and ability to perform under pressure.
 * Modeled positive attitude and flexibility.
@@ -25,7 +25,7 @@ Analyst with experience communicating at multiple levels, developing analytical 
 ### Department of Homeland Security
 #### Management Information Analyst
 
-07/2007 - 04/2016
+_07/2007 - 04/2016_
 * Analyzed business intelligence data to identify issues within processes and procedures.
 * Designed and developed queries and reports using business intelligence products.
 * Planned and prioritized requests for new functionality, reports, and data points for business intelligence products.
@@ -34,7 +34,7 @@ Analyst with experience communicating at multiple levels, developing analytical 
 ### Comcast
 #### DTS Quality Control/Third Party Verification Specialist
 
-08/2001 - 05/2007 
+_08/2001 - 05/2007_ 
 * Prepared reports and developed reporting procedures using Microsoft Office products.
 * Effectively explained complex technical processes to customers in simple terms.
 * Provided technical training on systems and procedures.
@@ -43,7 +43,7 @@ Analyst with experience communicating at multiple levels, developing analytical 
 ### TIC Enterprises, LLC
 #### Sales Executive
 
-01/2001 - 04/2001
+_01/2001 - 04/2001_
 * Consulted with small/mid-sized businesses to develop customized communications solutions.
 * Developed business proposals including cost justification and return on investment.
 * Trained on Nortel Norstar hardware and applications and Nextel business solutions.
