@@ -11,6 +11,24 @@ Data analyst with experience communicating at multiple levels, developing analyt
 * process mapping and process improvement
 * technical training and documentation
 
+## Technical Knowledge
+
+### Software and Tools
+* Microsoft Excel, Access, Sharepoint, SQL Server, Visio, Word, Publisher
+* Adobe Acrobat, Scribus, Gimp
+* Atom.io, Visual Studio Code
+* markdown, multimarkdown, asciidoc
+* SQL, XML, DITA
+
+### Training Courses and Certificates
+* Metastorm BPM Foundation
+* SQL Server 2005 Integration Services
+* IBM Cognos 8 BI Report Studio: Authoring Professional Reports
+* IBM Cognos Report Studio: Author Reports with Multidimensional Data 
+* IBM Cognos Framework Manager: Design Metadata Models 
+* IBM Congos Report Studio: Author Statistical Reports
+
+
 ## Professional Experience
 
 ### Stay-at-Home Dad
@@ -18,7 +36,8 @@ _04/2016 - Present_
 
 * Demonstrated time-management, work ethic, and ability to perform under pressure.
 * Modeled positive attitude and flexibility.
-* Provided one-on-one mentoring in soft skills including communication, problem-solving, and self-confidence.
+* Provided mentoring in soft skills including communication, problem-solving, and self-confidence.
+* Watched my baby grow into a sweet, beautiful, energetic little girl.
 
 
 
@@ -47,23 +66,6 @@ _01/2001 - 04/2001_
 * Consulted with small/mid-sized businesses to develop customized communications solutions.
 * Developed business proposals including cost justification and return on investment.
 * Trained on Nortel Norstar hardware and applications and Nextel business solutions.
-
-## Technical Knowledge
-
-### Software and Tools
-* Microsoft Excel, Access, Sharepoint, SQL Server, Visio, Word, Publisher
-* Adobe Acrobat, Scribus, Gimp
-* Atom.io, Visual Studio Code
-* markdown, multimarkdown, asciidoc
-* SQL, HTML, CSS, DITA
-
-### Training Courses and Certificates
-* Metastorm BPM Foundation
-* SQL Server 2005 Integration Services
-* IBM Cognos 8 BI Report Studio: Authoring Professional Reports
-* IBM Cognos Report Studio: Author Reports with Multidimensional Data 
-* IBM Cognos Framework Manager: Design Metadata Models 
-* IBM Congos Report Studio: Author Statistical Reports
 
 ## Education
 Graduate Certificate in Technical Communication
