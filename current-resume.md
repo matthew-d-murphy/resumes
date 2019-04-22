@@ -6,8 +6,7 @@
 Data analyst with experience communicating at multiple levels, developing analytical reporting tools, and designing repeatable procedures that increase efficiency. Known for "big picture" thinking, asking probing questions, and exploring alternatives.
 * data mining and reporting
 * relationship development and stakeholder management
-* requirements facilitation
-* project planning and monitoring
+* requirements facilitation and project planning 
 * process mapping and process improvement
 * technical training and documentation
 
@@ -69,7 +68,9 @@ _01/2001 - 04/2001_
 
 ## Education
 Graduate Certificate in Technical Communication
-University of Minnesota
+
+_University of Minnesota_
 
 Bachelor's of Science in Telecommunications Management
-Saint Mary's University of Minnesota
+
+_Saint Mary's University of Minnesota_
