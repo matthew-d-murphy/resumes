@@ -71,6 +71,7 @@ Graduate Certificate in Technical Communication
 
 _University of Minnesota_
 
+
 Bachelor's of Science in Telecommunications Management
 
 _Saint Mary's University of Minnesota_
