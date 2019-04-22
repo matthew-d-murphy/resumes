@@ -3,11 +3,11 @@
  * murphy.matthew.david@gmail.com
  * https://www.linkedin.com/in/matthewmurphy/
 
-Analyst with experience communicating at multiple levels, developing analytical reporting tools, and designing repeatable procedures that increase efficiency. Known for "big picture" thinking, asking probing questions, and providing alternatives. Interests include: analytics and reporting, process improvement and automation, technical writing and training. 
-* analytical queries and reports
-* coordination with stakeholders
-* requirements gathering
-* project planning and control
+Data analyst with experience communicating at multiple levels, developing analytical reporting tools, and designing repeatable procedures that increase efficiency. Known for "big picture" thinking, asking probing questions, and exploring alternatives.
+* data mining and reporting
+* relationship development and stakeholder management
+* requirements facilitation
+* project planning and monitoring
 * process mapping and process improvement
 * technical training and documentation
 
