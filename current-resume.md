@@ -36,7 +36,7 @@ _04/2016 - Present_
 * Demonstrated time-management, work ethic, and ability to perform under pressure.
 * Modeled positive attitude and flexibility.
 * Mentored in soft skills such as communication, problem-solving, and self-confidence.
-* Major responsibilities included going to the park, building block towers, playing in puddles, reading aloud, and providing hugs.
+* Additional responsibilities included going to the park, building block towers, playing in puddles, reading aloud, and providing hugs.
 
 
 
