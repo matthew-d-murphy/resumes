@@ -35,8 +35,8 @@ _04/2016 - Present_
 
 * Demonstrated time-management, work ethic, and ability to perform under pressure.
 * Modeled positive attitude and flexibility.
-* Provided mentoring in soft skills including communication, problem-solving, and self-confidence.
-* Watched my baby grow into a sweet, beautiful, energetic little girl.
+* Mentored in soft skills such as communication, problem-solving, and self-confidence.
+* Major responsibilities included going to the park, building block towers, playing in puddles, reading aloud, and providing hugs.
 
 
 
