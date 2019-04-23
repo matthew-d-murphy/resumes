@@ -56,7 +56,6 @@ _08/2001 - 05/2007_
 * Prepared reports and developed reporting procedures using Microsoft Office products.
 * Effectively explained complex technical processes to customers in simple terms.
 * Provided technical training on systems and procedures.
-* Mastered multiple order entry and auditing systems.
 
 ### TIC Enterprises, LLC
 #### Sales Executive
