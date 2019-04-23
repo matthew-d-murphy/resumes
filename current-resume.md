@@ -64,7 +64,6 @@ _08/2001 - 05/2007_
 _01/2001 - 04/2001_
 * Consulted with small/mid-sized businesses to develop customized communications solutions.
 * Developed business proposals including cost justification and return on investment.
-* Trained on Nortel Norstar hardware and applications and Nextel business solutions.
 
 ## Education
 Graduate Certificate in Technical Communication
