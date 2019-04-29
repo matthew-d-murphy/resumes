@@ -25,7 +25,7 @@ Data analyst with experience communicating at multiple levels, developing analyt
 * IBM Cognos 8 BI Report Studio: Authoring Professional Reports
 * IBM Cognos Report Studio: Author Reports with Multidimensional Data 
 * IBM Cognos Framework Manager: Design Metadata Models 
-* IBM Congos Report Studio: Author Statistical Reports
+* IBM Cognos Report Studio: Author Statistical Reports
 
 
 ## Professional Experience
