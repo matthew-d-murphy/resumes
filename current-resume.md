@@ -45,26 +45,25 @@ _04/2016 - Present_
 #### Management Information Analyst
 
 _07/2007 - 04/2016_
-* Analyzed business intelligence data to identify issues within processes and procedures.
-* Designed and developed queries and reports using business intelligence products.
-* Planned and prioritized requests for new functionality, reports, and data points for business intelligence products.
-* Coordinated with stakeholders to determine user needs and reach consensus on product or service development.
+* Analyzed applicant pre-employment data from customers and third-party vendors to identify and resolve discrepancies.
+* Developed queries and reports for managaging and supporting federal pre-employment processes. 
+* Planned and prioritized requests for new functionality, reports, and data points in response to hiring initiatives.
+* Coordinated with stakeholders to determine needs and reach consensus on data-related projects.
  
 ### Comcast
 #### DTS Quality Control/Third Party Verification Specialist
 
 _08/2001 - 05/2007_ 
 * Prepared reports and developed reporting procedures using Microsoft Office products.
-* Effectively explained complex technical processes to customers in simple terms.
-* Provided technical training on systems and procedures.
-* Highly skilled in multiple order entry and auditing systems.
+* Effectively explained complex regulatory and technical processes to residential telephone customers in simple terms.
+* Provided technical training on order entry systems and regulatory procedures related to telephony service.
 
 ### TIC Enterprises, LLC
 #### Sales Executive
 
 _01/2001 - 04/2001_
 * Consulted with small/mid-sized businesses to develop customized communications solutions.
-* Developed business proposals including cost justification and return on investment.
+* Developed business proposals, cost justifications and return on investment statements.
 * Trained on Nortel Norstar hardware and applications and Nextel business solutions.
 
 ## Education
