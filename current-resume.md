@@ -45,10 +45,10 @@ _04/2016 - Present_
 #### Management Information Analyst
 
 _07/2007 - 04/2016_
-* Analyzed applicant pre-employment data from customers and third-party vendors to identify and resolve discrepancies.
-* Developed queries and reports for managaging and supporting federal pre-employment processes. 
-* Planned and prioritized requests for new functionality, reports, and data points in response to hiring initiatives.
-* Coordinated with stakeholders to determine needs and reach consensus on data-related projects.
+* Analyzed applicant pre-employment data from customers and third-party vendors to create meaningful reports and summaries for managers.
+* Developed queries and reports to support federal pre-employment workflow based on internal standards and best practices. 
+* Facilitated and prioritized requests for new functionality, reports, and data points in response to hiring initiatives.
+* Guided internal and external stakeholders to agreement regarding competing needs during data-related projects.
  
 ### Comcast
 #### DTS Quality Control/Third Party Verification Specialist
