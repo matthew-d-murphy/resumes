@@ -72,3 +72,17 @@ University of Minnesota
 
 Bachelor's of Science in Telecommunications Management
 Saint Mary's University of Minnesota
+
+---
+
+## Background and Goals
+
+Previously, I was a human resources data and reporting analyst. I worked along side a team of business analysts and software developers. I'm looking to transition into the healthcare industry. My goal is to be in a position where I am a 'data-driven storyteller' rather than just another 'numbers guy.'
+
+## Questions
+
+1. Can you give me any feedback on my resume, based on what you would look for in a candidate?
+2. What role(s) do you play at Uphsure-Smith? What skills do you rely on most?
+3. If all positions at Upsure-Smith were open, are there any where you think I might be a good fit? Why/Why not?
+4. Can you think of anyone specific that I should talk to? Is there another company that you think I should research?
+5. What goals do you have? Is there any way I can help?
