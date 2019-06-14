@@ -77,7 +77,7 @@ Saint Mary's University of Minnesota
 
 ## Background and Goals
 
-Previously, I was a human resources data and reporting analyst. I worked along side a team of business analysts and software developers. I'm looking to transition into the healthcare industry. My goal is to be in a position where I am a 'data-driven storyteller' rather than just another 'numbers guy.'
+Previously, I was a human resources data and reporting analyst. I worked along side a team of business analysts and software developers. I'm looking to transition into the healthcare industry. My goal is to be in a position where I am a 'data-driven storyteller' rather than a 'numbers guy.'
 
 ## Questions
 
