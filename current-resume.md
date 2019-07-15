@@ -15,6 +15,7 @@ Data analyst with experience communicating at multiple levels, developing analyt
 
 ### Software and Tools
 * Microsoft Excel, Access, Sharepoint, SQL Server, Visio, Word, Publisher
+* IBM Cognos Business Intelligence, Microsoft Power BI
 * Adobe Acrobat, Scribus, Gimp
 * Atom.io, Visual Studio Code
 * markdown, multimarkdown, asciidoc
