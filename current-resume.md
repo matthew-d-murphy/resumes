@@ -48,13 +48,15 @@ _04/2016 - Present_
 _07/2007 - 04/2016_
 * Analyzed applicant pre-employment data from customers and third-party vendors to identify and resolve discrepancies.
 * Developed queries and reports for managaging and supporting federal pre-employment processes. 
-* Planned and prioritized requests for new functionality, reports, and data points in response to hiring initiatives.
-* Coordinated with stakeholders to determine needs and reach consensus on data-related projects.
+* Managed requests for new functionality, reports, and data points in response to hiring initiatives. 
+* Coordinated with stakeholders to complete data-related projects on time by determining priorities and reaching consensus.
  
 ### Comcast
-#### DTS Quality Control/Third Party Verification Specialist
+#### Call Center Inbound Sales Representative/DTS Quality Control/Third Party Verification Specialist
 
-_08/2001 - 05/2007_ 
+_08/2001 - 05/2007_
+* Answered inbound calls regarding multiple product lines.
+* Regularly recognized for exceeding call center sales goals.  
 * Prepared reports and developed reporting procedures using Microsoft Office products.
 * Effectively explained complex regulatory and technical processes to residential telephone customers in simple terms.
 * Provided technical training on order entry systems and regulatory procedures related to telephony service.
